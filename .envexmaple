@@ -1,0 +1,27 @@
+# MAIL CONFIGS
+host1 ="mail.enaidel.co.in"
+secure1 = true
+user1 = "no-reply@enaidel.co.in"
+pass1 = "!Rn944is0"
+
+
+host2 ="mail.enaidel.co.in"
+secure2  =true
+user2 = "customer@enaidel.co.in"
+pass2 ="W^q428ng8"
+
+
+host3 ="mail.enaidel.co.in"
+secure3 = true
+user3 ="no.reply@enaidel.co.in"
+pass3 = "5v2Dph8?4"
+
+
+host4 = "mail.enaidel.co.in"
+secure4 =  true
+user4 = "noreply@enaidel.co.in"
+pass4 = "6f34jT5#e"
+
+
+
+PORT = 8080
